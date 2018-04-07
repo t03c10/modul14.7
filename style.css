@@ -1,0 +1,64 @@
+body {
+    background-color: #E9EBEE;
+    font-family: Lato;
+}
+
+.contactImage {
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 10px;
+}
+
+button {
+    border-radius: 6px;
+    margin-top: 10px;
+    background-color: #4267B2;
+    color: white;
+    padding: 5px;
+}
+
+.contactItem {
+    background-color: #fff;
+    display: block;
+    padding: 10px;
+    margin: 20px auto;
+    box-shadow: 10px 10px #4c4b52;
+    border-radius: 12px;
+    width: 300px;
+}
+
+input {
+    display: inline-block;
+    margin-top: 10px;
+    height: 30px;
+    width: 160px;
+    border: 2px solid rgb(82, 79, 79);
+    border-radius: 6px;
+}
+
+.contactsList {
+    margin: 0 auto;
+    margin-top: 5%;
+    width: auto;
+    text-align: center;
+}
+
+.contactForm {
+    margin: 0 auto;
+    padding: 10px;
+    width: 180px;
+    text-align: center;
+    background: linear-gradient(to right, rgb(191, 189, 201), rgb(73, 77, 99));
+    box-shadow: 10px 10px #4c4b52;
+    border-radius: 5px;
+}
+
+.contactLabel {
+    font-weight: 600;
+    color: rgb(7, 34, 34);
+}
+
+.contactEmail {
+    margin-left: 60px;
+}
